@@ -1,4 +1,4 @@
-# automationEnumeration
+# AutomationEnumeration
 
 This is a project under work any feedbacks would be highly apreciated !!!
 
